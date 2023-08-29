@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Note
+  - 
+  - 
+  - 
+  - BadCatcher
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1635437909
+    locked: 0
+  - name: Middleground
+    uniqueID: 1438545221
+    locked: 0
+  - name: Foreground
+    uniqueID: 1074502593
+    locked: 0
+  - name: HitEffect
+    uniqueID: 1227004987
+    locked: 0
+  - name: PopUp
+    uniqueID: 900303107
+    locked: 0
